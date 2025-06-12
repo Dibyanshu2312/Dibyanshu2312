@@ -1,1 +1,62 @@
-# Dibyanshu-sahoo
+<h1 align="center">Hi 👋, I'm Dibyanshu Sahoo</h1>
+<h3 align="center">🚀 An eager learner exploring Full Stack Development and AI, always open to new challenges and growth.</h3>
+
+---
+
+### 🎯 Goals & Mission
+
+- 🌱 Currently learning: **Data Structures & Algorithms**, **Machine Learning**, and **Web Development**
+- 🤖 Building an AI-based **Sickle Cell Detection** system using CNN and Flask
+- 🧠 Currently good frontend devloper
+- 💡 Exploring real-world applications of AI in **healthcare and agriculture**
+- 🎯 Goal: Become a top-tier full-stack developer with strong AI/ML capabilities
+
+---
+![Dibyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dibyanshu2312&show_icons=true&theme=radical)
+
+### 🛠️ Tech Stack
+
+**Languages & Tools:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dibyanshusahoo&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshusahoo&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=dibyanshusahoo&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+- 🌐 Portfolio: [dibyanshusahoo.github.io]([https://dibyanshusahoo.github.io](https://github.com/Dibyanshu2312)) *(update this if you haven't created one yet)*
+- 💼 LinkedIn: [linkedin.com/in/dibyanshusahoo]([https://linkedin.com/in/dibyanshusahoo](https://www.linkedin.com/in/dibyanshu-sahoo-aab500330/?trk=opento_sprofile_topcard)
+- 📬 Email: dibyanshu1778@gmai.com
+
+---
+
+### ⚡ Fun Facts
+
+- 🏋️‍♂️ Gym is my therapy and discipline coach!
+- 📷 I enjoy capturing landscapes and editing in Lightroom.
+- 🧠 I love breaking down complex topics and teaching others.
+- 🕹️ I occasionally grind on FPS games like Valorant.
+
+---
+
+<p align="center">Thank you for visiting my profile! ⭐ Consider starring the repositories you like!</p>
