@@ -12,7 +12,7 @@
 - 🎯 Goal: Become a top-tier full-stack developer with strong AI/ML capabilities
 
 ---
-![Dibyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dibyanshu2312&show_icons=true&theme=radical)
+
 
 ### 🛠️ Tech Stack
 
