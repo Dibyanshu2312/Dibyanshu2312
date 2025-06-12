@@ -44,8 +44,8 @@
 
 ### 🔗 Connect With Me
 
-- 🌐 Portfolio: [dibyanshusahoo.github.io]([https://dibyanshusahoo.github.io](https://github.com/Dibyanshu2312)) *(update this if you haven't created one yet)*
-- 💼 LinkedIn: [linkedin.com/in/dibyanshusahoo]([https://linkedin.com/in/dibyanshusahoo](https://www.linkedin.com/in/dibyanshu-sahoo-aab500330/?trk=opento_sprofile_topcard)
+- 🌐 Portfolio:(https://github.com/Dibyanshu2312) *(update this if you haven't created one yet)*
+- 💼 LinkedIn: (https://www.linkedin.com/in/dibyanshu-sahoo-aab500330/?trk=opento_sprofile_topcard)
 - 📬 Email: dibyanshu1778@gmail.com
 
 ---
