@@ -40,7 +40,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dibyanshu2312&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshu2312&layout=compact&theme=radical" alt="Top languages" />
-<img src="https://streak-stats.demolab.com?user=dibyanshu2312&theme=radical" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?username=dibyanshu2312&theme=radical" alt="GitHub Streak" />
 
 </p>
 
