@@ -50,7 +50,8 @@
 ### 🔗 Connect With Me
 
 - 🌐 Portfolio:(https://github.com/Dibyanshu2312) 
-- 💼 LinkedIn: (https://www.linkedin.com/in/dibyanshu-sahoo-aab500330/?trk=opento_sprofile_topcard)
+- 💼 LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dibyanshu-sahoo-2324dib" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/dibyanshu-sahoo-2324dib?trk=profile-badge">Dibyanshu Sahoo</a></div>
+              
 - 📬 Email: dibyanshu1778@gmail.com
 
 ---
