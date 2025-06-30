@@ -3,16 +3,6 @@
 
 ---
 
-### 🎯 Goals & Mission
-
-- 🌱 Currently learning: **Data Structures & Algorithms**, **Machine Learning**, and **Web Development**
-- 🤖 Building an AI-based **Sickle Cell Detection** system using CNN and Flask
-- 🧠 Currently good frontend devloper
-- 💡 Exploring real-world applications of AI in **healthcare and agriculture**
-- 🎯 Goal: Become a top-tier full-stack developer with strong AI/ML capabilities
-
----
-
 
 ### 🛠️ Tech Stack
 
