@@ -71,7 +71,7 @@
 - 🏋️‍♂️ Gym is my therapy and discipline coach!
 - 📷 I enjoy capturing landscapes and editing in Lightroom.
 - 🧠 I love breaking down complex topics and teaching others.
-- 🕹️ I occasionally grind on FPS games like Valorant.
+
 
 ---
 
