@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dibyanshu Sahoo</h1>
 <h3 align="center">🚀 An eager learner exploring Full Stack Development and AI, always open to new challenges and growth.</h3>
 
-
 ---
-
-
 
 ### 🛠️ Tech Stack
 
