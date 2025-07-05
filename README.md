@@ -3,9 +3,7 @@
 
 ---
 
-
 ### 🛠️ Tech Stack
-
 
 **Languages & Tools:**
 
