@@ -55,6 +55,7 @@
 - 🌐 Portfolio:(https://github.com/Dibyanshu2312) 
 - 💼 LinkedIn: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="dibyanshu-sahoo-2324dib" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/dibyanshu-sahoo-2324dib?trk=profile-badge">Dibyanshu Sahoo</a></div>
 - [📧 Email me](mailto:dibyanshu1778@gmail.com):dibyanshu1778@gmail.com
+- My Portfolio: (https://dibyanshuportfolio23.netlify.app/)
 
 
 
